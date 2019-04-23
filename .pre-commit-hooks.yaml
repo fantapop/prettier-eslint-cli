@@ -1,5 +1,6 @@
 -   id: prettier-eslint
     name: prettier-eslint
+    entry: ./dist/index.js
     language: node
     types: [javascript]
     args: []
