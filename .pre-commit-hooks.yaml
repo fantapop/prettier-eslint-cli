@@ -1,5 +1,6 @@
 -   id: prettier-eslint
     name: prettier-eslint
+    entry: prettier-eslint
     language: node
     types: [javascript]
     args: []
